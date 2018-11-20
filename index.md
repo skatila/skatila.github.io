@@ -26,8 +26,9 @@ Bioinformatician, Computational Biologist, Programmer, WoodWorker
 	* [glib - gnome dev refrence manual](https://developer.gnome.org/glib/)
 	* [setjmp.h/wikipedia](https://en.wikipedia.org/wiki/Setjmp.h)
 	* [setjmp.h/gnu.org](http://www.gnu.org/software/libc/manual/html_node/Longjmp-in-Handler.html)
-- **Tutorials**
+- **References/Tutorials**
 	* [Markdowns](https://guides.github.com/features/mastering-markdown/)
+	* [samtools reference](https://broadinstitute.github.io/picard/explain-flags.html)
 
 #### Bioinformatics
 - **Graph**
@@ -48,10 +49,13 @@ Bioinformatician, Computational Biologist, Programmer, WoodWorker
 - **Downloads**
 	* [Clustal](http://www.clustal.org/)
 	* [MrBayes](https://github.com/NBISweden/MrBayes)
-	* [samtools](http://www.htslib.org/)
-	* [samtools github](https://github.com/samtools/samtools)
+	* [samtools/htslib](http://www.htslib.org/)
+	* [samtools/github](https://github.com/samtools/samtools)
 	* [Mega](https://www.megasoftware.net/)
 	* [Muscle]()
+- **Bulk Data**
+	* [1000 Genome](http://ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data) ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data
+	
 #### Extras
 * [git book](https://git-scm.com/book/en/v2)
 * [The C Programming Language - K&R wikipedia page](https://en.wikipedia.org/wiki/The_C_Programming_Language)
