@@ -2,9 +2,9 @@
 
 Bioinformatician, Computational Biologist, Programmer, WoodWorker
 
-### List of pages that are of interest to me
+### List of pages I find useful
 
-List of sites that are particularly useful
+
 
 #### Programming/Database/Linux
 
@@ -20,6 +20,10 @@ List of sites that are particularly useful
 	* [docs](https://docs.python.org/3/)
 	* [C API](https://docs.python.org/3/c-api/index.html)
 - **C**
+	* [GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+	* [glibc manual](https://www.gnu.org/software/libc/documentation.html)
+	* [glibc wiki](https://sourceware.org/glibc/wiki/HomePage)
+	* [glib - gnome dev refrence manual](https://developer.gnome.org/glib/)
 	* [setjmp.h/wikipedia](https://en.wikipedia.org/wiki/Setjmp.h)
 	* [setjmp.h/gnu.org](http://www.gnu.org/software/libc/manual/html_node/Longjmp-in-Handler.html)
 - **Tutorials**
@@ -48,7 +52,12 @@ List of sites that are particularly useful
 	* [samtools github](https://github.com/samtools/samtools)
 	* [Mega](https://www.megasoftware.net/)
 	* [Muscle]()
-	
+#### Extras
+* [git](https://git-scm.com/book/en/v2)
+* [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+
+
+
 #### Everything else
 
 For more details see [www.sabink.org](www.sabink.org)
