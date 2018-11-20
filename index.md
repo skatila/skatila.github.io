@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## Sabin Katila
 
-You can use the [editor on GitHub](https://github.com/skatila/skatila.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bioinformatician, Computational Biologist, Programmer, WoodWorker
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### List of pages that are of interest to me
 
-### Markdown
+List of sites that are particularly useful
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Programming/Database/Linux
 
-```markdown
-Syntax highlighted code block
+- **Database**
+	* [Neo4j](https://neo4j.com/)
+	* [Cypher Query Language](https://neo4j.com/developer/cypher-query-language/)
+	* [sqlite documentation](https://www.sqlite.org/docs.html)
+- **Linux**
+	* [kernel doc](https://www.kernel.org/doc/)
+	* [memory management](https://www.kernel.org/doc/Documentation/sysctl/vm.txt)
+	* [more memory](https://www.kernel.org/doc/html/latest/admin-guide/mm/index.html)
+- **Python**
+	* [docs](https://docs.python.org/3/)
+	* [C API](https://docs.python.org/3/c-api/index.html)
+- **C**
+	* [setjmp.h/wikipedia](https://en.wikipedia.org/wiki/Setjmp.h)
+	* [setjmp.h/gnu.org](http://www.gnu.org/software/libc/manual/html_node/Longjmp-in-Handler.html)
+- **Tutorials**
+	* [Markdowns](https://guides.github.com/features/mastering-markdown/)
 
-# Header 1
-## Header 2
-### Header 3
+#### Bioinformatics
+- **Graph**
+	* [Cytoscape](https://cytoscape.org/what_is_cytoscape.html)
+	* [reactome](https://reactome.org/download-data)
+	* [UCSC Gene interaction pathways from curated database and text-mining](https://genome.ucsc.edu/cgi-bin/hgGeneGraph?gene=BRCA1&1=OK&supportLevel=text&geneCount=25)
+	* [UCSC Gene Pathways interaction graph user guide](http://genome.ucsc.edu/goldenpath/help/hgGeneGraph.html#configure)
+- **Genome**
+	* [UCSC Genome Browser](http://genome.ucsc.edu/cgi-bin/hgGateway)
+	* [NCBI Genome](https://www.ncbi.nlm.nih.gov/genome)
+	* [100 Genome](http://www.internationalgenome.org/category/alignment/)
+- **Online Tools**
+	* [NCBI Blase](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+	* [UCSC BLAT](https://genome.ucsc.edu/cgi-bin/hgBlat?command=start)
+	* [UCSC Table Browser](https://genome.ucsc.edu/cgi-bin/hgTables?hgsid=699188795_T7skWF75Qi4NZmpjNu9euSdVi0s0)
+	* [Galaxy](https://usegalaxy.org/)
+	* [EBI Tools](https://www.ebi.ac.uk/services)
+- **Downloads**
+	* [Clustal](http://www.clustal.org/)
+	* [MrBayes](https://github.com/NBISweden/MrBayes)
+	* [samtools](http://www.htslib.org/)
+	* [samtools github](https://github.com/samtools/samtools)
+	* [Mega](https://www.megasoftware.net/)
+	* [Muscle]()
+	
+#### Everything else
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skatila/skatila.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [www.sabink.org](www.sabink.org)
