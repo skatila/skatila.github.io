@@ -40,7 +40,7 @@ Bioinformatician, Computational Biologist, Programmer, WoodWorker
 	* [NCBI Genome](https://www.ncbi.nlm.nih.gov/genome)
 	* [100 Genome](http://www.internationalgenome.org/category/alignment/)
 - **Online Tools**
-	* [NCBI Blase](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+	* [NCBI BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 	* [UCSC BLAT](https://genome.ucsc.edu/cgi-bin/hgBlat?command=start)
 	* [UCSC Table Browser](https://genome.ucsc.edu/cgi-bin/hgTables?hgsid=699188795_T7skWF75Qi4NZmpjNu9euSdVi0s0)
 	* [Galaxy](https://usegalaxy.org/)
@@ -53,8 +53,8 @@ Bioinformatician, Computational Biologist, Programmer, WoodWorker
 	* [Mega](https://www.megasoftware.net/)
 	* [Muscle]()
 #### Extras
-* [git](https://git-scm.com/book/en/v2)
-* [The C Programming Language](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+* [git book](https://git-scm.com/book/en/v2)
+* [The C Programming Language - K&R wikipedia page](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 
 
 
