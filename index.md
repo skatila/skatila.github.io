@@ -59,7 +59,7 @@ Bioinformatician, Computational Biologist, Programmer (and amateur wood worker)
 	* [UCSC Table Browser](https://genome.ucsc.edu/cgi-bin/hgTables?hgsid=699188795_T7skWF75Qi4NZmpjNu9euSdVi0s0)
 	* [Galaxy](https://usegalaxy.org/)
 	* [EBI Tools](https://www.ebi.ac.uk/services)
-- **Downloads**
+- **Downloadable Tools**
 	* [Clustal](http://www.clustal.org/)
 	* [MrBayes](https://github.com/NBISweden/MrBayes)
 	* [samtools/htslib](http://www.htslib.org/)
@@ -67,7 +67,8 @@ Bioinformatician, Computational Biologist, Programmer (and amateur wood worker)
 	* [Mega](https://www.megasoftware.net/)
 	* [Muscle]()
 - **Bulk Data**
-	* [1000 Genome](http://ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data) ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data
+	* [1000 Genome](http://ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data) 
+		ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data
 	
 #### Extras
 * [git book](https://git-scm.com/book/en/v2)
