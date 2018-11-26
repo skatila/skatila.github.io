@@ -36,7 +36,8 @@ Bioinformatician, Computational Biologist, Programmer (and amateur wood worker)
 	
 		This requires a bit of extra work in order to get a nice extension table in the notebook itself.
 		
-		```pip install jupyter_contrib_nbextensions
+		```
+		pip install jupyter_contrib_nbextensions
 		jupyter contrib nbextension install --user
 		pip install jupyter_nbextensions_configurator
 		jupyter nbextensions_configurator enable
@@ -69,6 +70,7 @@ Bioinformatician, Computational Biologist, Programmer (and amateur wood worker)
 	* [Muscle]()
 - **Bulk Data**
 	* [1000 Genome](http://ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data) 
+		
 		ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data
 	
 #### Extras
