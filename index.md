@@ -1,6 +1,6 @@
 ## Sabin Katila
 
-Bioinformatician, Computational Biologist, Programmer, WoodWorker
+Bioinformatician, Computational Biologist, Programmer (and amateur wood worker)
 
 ### List of pages I find useful
 
@@ -40,6 +40,8 @@ Bioinformatician, Computational Biologist, Programmer, WoodWorker
 		pip install jupyter_nbextensions_configurator
 		jupyter nbextensions_configurator enable
 		```
+- **Wood Working**
+	* [Wood Working for Mere Mortals](https://woodworkingformeremortals.com/) Writing code is fun but, carving a bookshelf by yourself can be just as fun \(when it works out\).
 
 #### Bioinformatics
 - **Graph**
