@@ -29,6 +29,17 @@ Bioinformatician, Computational Biologist, Programmer, WoodWorker
 - **References/Tutorials**
 	* [Markdowns](https://guides.github.com/features/mastering-markdown/)
 	* [samtools reference](https://broadinstitute.github.io/picard/explain-flags.html)
+- **Tools**
+	* [ipython-sql](https://github.com/catherinedevlin/ipython-sql)
+	* [jupyter-c](https://github.com/brendan-rius/jupyter-c-kernel)
+	* [jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
+	
+		This requires a bit of extra work in order to get a nice extension table in the notebook itself.
+		```pip install jupyter_contrib_nbextensions
+		jupyter contrib nbextension install --user
+		pip install jupyter_nbextensions_configurator
+		jupyter nbextensions_configurator enable
+		```
 
 #### Bioinformatics
 - **Graph**
