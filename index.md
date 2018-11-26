@@ -35,6 +35,7 @@ Bioinformatician, Computational Biologist, Programmer (and amateur wood worker)
 	* [jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 	
 		This requires a bit of extra work in order to get a nice extension table in the notebook itself.
+		
 		```pip install jupyter_contrib_nbextensions
 		jupyter contrib nbextension install --user
 		pip install jupyter_nbextensions_configurator
