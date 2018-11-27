@@ -72,9 +72,9 @@ Bioinformatician, Computational Biologist, Programmer (and amateur wood worker)
 	* [Mega](https://www.megasoftware.net/)
 	* [Muscle]()
 - **Bulk Data**
-	* [1000 Genome](http://ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data) 
+	* [1000 Genome](https://ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data/)
 		
-		ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data
+		ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp/pilot_data
 	
 #### Extras
 * [git book](https://git-scm.com/book/en/v2)
