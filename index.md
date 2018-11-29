@@ -66,6 +66,7 @@ Bioinformatician, Computational Biologist, Programmer (and amateur wood worker)
 	* [UCSC Table Browser](https://genome.ucsc.edu/cgi-bin/hgTables?hgsid=699188795_T7skWF75Qi4NZmpjNu9euSdVi0s0)
 	* [Galaxy](https://usegalaxy.org/)
 	* [EBI Tools](https://www.ebi.ac.uk/services)
+	* [Gene games](https://www.genenames.org/)
 - **Downloadable Tools**
 	* [Clustal](http://www.clustal.org/)
 	* [MrBayes](https://github.com/NBISweden/MrBayes)
