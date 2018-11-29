@@ -16,6 +16,8 @@ Bioinformatician, Computational Biologist, Programmer (and amateur wood worker)
 	* [kernel doc](https://www.kernel.org/doc/)
 	* [memory management](https://www.kernel.org/doc/Documentation/sysctl/vm.txt)
 	* [more memory](https://www.kernel.org/doc/html/latest/admin-guide/mm/index.html)
+	* [biolinux] (http://environmentalomics.org/bio-linux/)
+	* [biolinux packages] (http://environmentalomics.org/bio-linux-software-list/)
 - **Python**
 	* [docs](https://docs.python.org/3/)
 	* [C API](https://docs.python.org/3/c-api/index.html)
