@@ -1,6 +1,6 @@
 ## Sabin Katila
 
-Bioinformatician, Computational Biologist, Programmer (and amateur wood worker)
+Bioinformatician, Computational Biologist, Programmer (and amateur wood worker) [/linkedin/](https://www.linkedin.com/in/sabink)
 
 ### List of pages I find useful
 
